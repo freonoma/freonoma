@@ -2,7 +2,7 @@
 
 I'm **Samuel Nobre**! I am a full stack developer and I'm currently living in Madrid, Spain.  
 
-## 📫 Social Media  
+## 📫 Social Media & [Personal Website](https://samuelnbr.com/)
 
 You can find me on [Instagram](https://instagram.com/samuelnbr/) and [Twitter](https://twitter.com/freonoma)! 
 
