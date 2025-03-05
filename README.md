@@ -18,6 +18,8 @@ As a lover of languages, I was inspired by GeoGuessr to create LangGuesser. It's
 - **Account:** Create an account to track your progress, view average scores, check out statistics, and see your last games played.
 - **Compete:** Climb the leaderboard and see if you can secure a spot among the top 10 players worldwide!
 
+You can play it solo, or 1v1 multiplayer against your friends or random people :)
+
 ## 🗣️ Languages
 
 I'm a bit of a languages nerd! I'm fluent in Portuguese, Spanish, Galician, English, and Russian, and I'm also learning Chinese, Italian, French, Swedish, and German. 
