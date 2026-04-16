@@ -1,42 +1,28 @@
-## 👋 Hi there!
+## 👋 Hi, I'm Samuel
 
-I'm **Samuel Nobre**! I am a full stack developer based in Madrid, Spain.
+Full stack developer splitting time between Madrid 🇪🇸 and Warsaw 🇵🇱.
 
-## 📫 Social Media & [Personal Website](https://samuelnbr.com/)
+🌐 [samuelnbr.com](https://samuelnbr.com/) · 📸 [Instagram](https://instagram.com/samuelnbr/)
 
-You can also find me on [Instagram](https://instagram.com/samuelnbr/).
+---
 
-## 🚀 Current Highlighted Project
+## 🚀 What I'm building
 
-### [LangGuesser](https://langguesser.com/)
-As a lover of languages, I was inspired by GeoGuessr to create LangGuesser. It's a game that challenges you to guess the country of origin by listening to a 15-second audio clip of a language or accent. Here's how it works:
-- **Listen:** Enjoy a 15-second audio clip (some are shorter from the earlier development days, to be fixed).
-- **Guess:** Click on the country on the map that you believe matches the accent.
-- **Gameplay:** Tackle 10 rounds with a fresh audio clip each time.
-- **Challenge:** Three wrong answers will eliminate you.
-- **Scoring:** Earn points based on speed and accuracy, with consecutive correct answers boosting your multiplier.
-- **Account:** Create an account to track your progress, view average scores, check out statistics, and see your last games played.
-- **Compete:** Climb the leaderboard and see if you can secure a spot among the top 10 players worldwide!
+### 🎮 [MeuRag](https://www.meurag.com/) — ~8k unique visitors/month
+A Portuguese-language community hub for Ragnarok Online players on the LatamRO server. Currently has a **visual simulator**, **build simulator**, **public community builds**, and a full **leveling guide** (1–200). Working on a **damage simulator** and **daily quest tracker** next.
 
-You can play it solo, or 1v1 multiplayer against your friends or random people :)
+### 🗣️ [LangGuesser](https://langguesser.com/) — ~1k unique visitors/month
+GeoGuessr, but for languages and accents. Listen to a 15-second clip and guess the country. Solo or 1v1 multiplayer, with a global leaderboard. Born from being a languages nerd.
+
+### ✈️ Coming soon
+I've been to 80+ countries and am putting together a travel site with guides and stories from the road. More on that when it launches.
+
+---
 
 ## 🗣️ Languages
 
-I'm a bit of a languages nerd! I'm fluent in Portuguese, Spanish, Galician, English, and Russian, and I'm also learning Chinese, Italian, French, Swedish, and German. 
+Fluent in 🇧🇷 Portuguese, 🇪🇸 Spanish, 🇬🇧 English, 🇷🇺 Russian.
 
-Feel free to contact me in any of these languages :)
+Learning 🇨🇳 Chinese, 🇮🇹 Italian, 🇫🇷 French, 🇩🇪 German.
 
-<!--
-**freonoma/freonoma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Feel free to reach out in any of these — I'll try my best to reply in whichever one you start in :)
